@@ -23,7 +23,7 @@ from instaling_client import InstalingClient
 
 client = InstalingClient()
 try:
-    client.login("your-email@example.com", "your-password")
+    client.login("username", "password")
     
     if client.session_completed:
         print("Today's session is already completed!")
