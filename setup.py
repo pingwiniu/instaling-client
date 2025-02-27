@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="instaling-solver",
+    name="instaling-client",
     version="0.1.0",
     author="Julian Zientkowski",
     author_email="julianzkw1@gmail.com",
     description="A client for automating Instaling.pl language learning sessions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pingwiniu/instaling-solver",
+    url="https://github.com/pingwiniu/instaling-client",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
