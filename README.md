@@ -1,6 +1,7 @@
 # Instaling Client
 
 [![PyPI version](https://img.shields.io/pypi/v/instaling-client.svg)](https://pypi.org/project/instaling-client/)
+[![PyPI Downloads](https://static.pepy.tech/badge/instaling-client/week)](https://pepy.tech/projects/instaling-client)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 A Python client for automating Instaling language learning sessions. This package provides a convenient way to interact with the Instaling platform programmatically.
