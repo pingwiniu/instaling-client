@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="instaling-client",
-    version="0.1.2",
+    version="0.1.3",
     author="Julian Zientkowski",
     author_email="julianzkw1@gmail.com",
     description="A client for automating Instaling.pl language learning sessions",
